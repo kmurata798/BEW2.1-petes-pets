@@ -1,3 +1,5 @@
+
+// alert('hello');
 if (document.querySelector('#new-pet')) {
     document.querySelector('#new-pet').addEventListener('submit', (e) => {
         e.preventDefault();
